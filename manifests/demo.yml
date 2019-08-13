@@ -52,7 +52,7 @@ metadata:
 spec:
   selector:
     source: demo
-    app: spinnaker
+    app: spinnaker-v2
   ports:
   - protocol: TCP
     port: 80
