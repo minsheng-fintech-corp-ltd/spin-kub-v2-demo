@@ -16,7 +16,7 @@ metadata:
   labels:
     source: demo
     stack: frontend
-    app: spinnaker
+    app: spinnaker-1
 spec:
   replicas: 3
   selector:
